@@ -1,7 +1,7 @@
 # app-meteo-js
 Application weather for my training in JS
 
-##APi
+## APi
 i used openweathermap for this application
 
 ### Languanges
